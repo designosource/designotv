@@ -50,7 +50,7 @@
                     2017
                 </h1>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus arcu velit, ornare facilisis accumsan accumsan, interdum sit amet massa. Fusce sit amet congue dui, a molestie nunc. Sed sit amet tempor risus, vitae accumsan libero. Aenean sem felis, efficitur eu dapibus ac, dignissim porta est. Sed varius ipsum varius magna aliquet, eget elementum ex tincidunt. In quis orci ac orci feugiat bibendum in vitae urna. Donec congue posuere justo. Duis id ante et odio vestibulum euismod. Sed velit urna, porta non faucibus at, iaculis a tortor.
+                    Benieuwd naar de websites, apps, peer projects en andere projecten waar Designosource zich het afgelopen jaar op gestort heeft? Of ben je gewoon benieuwd naar de werkwijze en de studenten? Op <b style="font-weight:bold">15 juni 2017</b> stelt de 6de generatie van Designosource voor jullie haar projecten voor in een totaal vernieuwde eindshow. <b style="font-weight:bold">Een unieke én inspirerende tv-beleving</b> vol verrassingen staat jullie te wachten in het prachtige decor van de Stadsschouwburg in Mechelen.
                 </p>
                 <a href="#tickets">Bestel jouw tickets<img src="<?php echo get_template_directory_uri(); ?>/images/arrow-right.svg" alt="Arrow right"></a>
             </div>
@@ -65,14 +65,14 @@
         <div class="wrap-programma" id="programma">
             <div class="programma__title">Programmagids</div>
             <ul>
-                <li class="generatie">
+                <li class="generatie" style="background-image:url(https://scontent-bru2-1.xx.fbcdn.net/v/t35.0-12/18552922_1537447059612416_1622789525_o.jpg?oh=c6b3ccbfb43608aa7b80b9c675c09348&oe=59265FC3)">
                     <div class="overlay slider"></div>
                     <div class="wrap-generatie__block">
                         <div class="generatie__block">
                             <div class="time">19u00</div>
                             <div class="title">De zesde<br><br>generatie</div>
                             <div class="text">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus arcu velit, ornare facilisis accumsan accumsan, interdum sit amet massa. Fusce sit amet congue dui, a molestie nunc. Sed sit amet tempor risus, vitae accumsan libero.
+                                De start van onze eigen late night talkshow. Yaron en Damon ontvangen samen spraakmakende Designosource-gasten én zorgen voor enorm veel fun met leuke tussendoortjes.
                             </div>
                         </div>
                     </div>
@@ -81,10 +81,10 @@
                     <div class="overlay slider"></div>
                     <div class="wrap-generatie__block">
                         <div class="generatie__block">
-                            <div class="time">19u00</div>
-                            <div class="title">De zesde<br><br>generatie</div>
+                            <div class="time">20u30</div>
+                            <div class="title">De Nacht<br><br>van het<br><br>gouden ei</div>
                             <div class="text">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus arcu velit, ornare facilisis accumsan accumsan, interdum sit amet massa. Fusce sit amet congue dui, a molestie nunc. Sed sit amet tempor risus, vitae accumsan libero.
+                                Leer de Designosource studenten beter kennen tijdens deze receptie. Om het jaar in stijl af te sluiten bieden we graag een hapje en een drankje aan zodat we deze avond samen feestelijk kunnen beleven.
                             </div>
                         </div>
                     </div>
@@ -95,7 +95,7 @@
         <div class="wrap-behindthescenes" id="behind-the-scenes">
             <div class="wrapper">
                 <h1 class="behindthescenes__title">Achter de schermen</h1>
-                <p class="behindthescenes__text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus arcu velit, ornare facilisis accumsan accumsan, interdum sit amet massa. Fusce sit amet congue dui, a molestie nunc. Sed sit amet tempor risus, vitae accumsan libero. Aenean sem felis, efficitur eu dapibus ac, dignissim porta est. </p>
+                <p class="behindthescenes__text">Benieuwd hoe onze Designoshow dit jaar tot stand is gekomen? Spot ons enthousiasme via deze exclusieve behind-the-scènes content. </p>
                 <div class="behindthescenes__timeline">
                     <div class="line"></div>
                     <?php
@@ -144,7 +144,7 @@
             <div class="reserveer__block">
                 <div class="title">Reserveer<br><br>jouw tickets</div>
                 <div class="text">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus arcu velit, ornare facilisis accumsan accumsan, interdum sit amet massa. Fusce sit amet congue dui, a molestie nunc. Sed sit amet tempor risus, vitae accumsan libero.
+                    Reserveer nu je gratis tickets voor deze spetterende tv-avond en beleef de IMD-spirit van op de eerste rij tijdens DesignoTV.
                 </div>
                 <a href="https://www.eventbrite.com/e/designoshow-tickets-34099928805" target="_blank">Reserveer nu</a>
             </div>
@@ -167,14 +167,14 @@
                         info
                     </div>
                     <div class="text">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus arcu velit, ornare facilisis accumsan accumsan, interdum sit amet massa. Fusce sit amet congue dui, a molestie nunc. Sed sit amet tempor risus, vitae accumsan libero. Aenean sem felis, efficitur eu dapibus ac, dignissim porta est.
+                        De show gaat door in de Mechelse Stadsschouwburg, 8 minuten stappen van de gratis parking <b style="font-weight:bold">het Douaneplein</b>. Vanaf <b style="font-weight:bold">18u00</b> gaan de deuren open zodat je om <b style="font-weight:bold">19u00</b> kunt genieten van een wervelende Designoshow.
                     </div>
                     <div class="wrap-details">
                         <div class="left">
-                            <div class="item">Waar?</div>
-                            <div class="item">Wanneer?</div>
-                            <div class="item">Deuren?</div>
-                            <div class="item">Start show?</div>
+                            <div class="item">Waar</div>
+                            <div class="item">Wanneer</div>
+                            <div class="item">Deuren</div>
+                            <div class="item">Start show</div>
                         </div>
                         <div class="right">
                             <div class="item">Stadsschouwburg Mechelen</div>
