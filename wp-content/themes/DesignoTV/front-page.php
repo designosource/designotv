@@ -95,7 +95,7 @@
         <div class="wrap-behindthescenes" id="behind-the-scenes">
             <div class="wrapper">
                 <h1 class="behindthescenes__title">Achter de schermen</h1>
-                <p class="behindthescenes__text">Benieuwd hoe onze Designoshow dit jaar tot stand is gekomen? Spot ons enthousiasme via deze exclusieve behind-the-scènes content. </p>
+                <p class="behindthescenes__text">Benieuwd hoe onze Designoshow dit jaar tot stand is gekomen? Spot ons enthousiasme via deze exclusieve behind-the-scenes content. </p>
                 <div class="behindthescenes__timeline">
                     <div class="line"></div>
                     <?php
@@ -167,7 +167,7 @@
                         info
                     </div>
                     <div class="text">
-                        De show gaat door in de Mechelse Stadsschouwburg, 8 minuten stappen van de gratis parking <b style="font-weight:bold">het Douaneplein</b>. Vanaf <b style="font-weight:bold">18u00</b> gaan de deuren open zodat je om <b style="font-weight:bold">19u00</b> kunt genieten van een wervelende Designoshow.
+                        De show vindt plaats in de Mechelse Stadsschouwburg, 8 minuten stappen van de gratis parking <b style="font-weight:bold">het Douaneplein</b>. Vanaf <b style="font-weight:bold">18u00</b> gaan de deuren open zodat je om <b style="font-weight:bold">19u00</b> kunt genieten van een wervelende Designoshow.
                     </div>
                     <div class="wrap-details">
                         <div class="left">
