@@ -20,16 +20,16 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'designoshow');
+define('DB_NAME', 'ID220762_desshow');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'ID220762_desshow');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'root');
+define('DB_PASSWORD', 'designosource007');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'mysql131.hosting.combell.com');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
@@ -37,6 +37,9 @@ define('DB_CHARSET', 'utf8');
 /** The Database Collate type. Don't change this if in doubt. */
 define('DB_COLLATE', '');
 
+
+define('WP_HOME','http://designoshow.dev');
+define('WP_SITEURL','http://designoshow.dev');
 /**#@+
  * Authentication Unique Keys and Salts.
  *

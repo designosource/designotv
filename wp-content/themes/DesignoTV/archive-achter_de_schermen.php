@@ -10,20 +10,11 @@
 
 <?php get_header(); ?>
     
-
-
-        <!-- MOBILE NAV  -->
-        <div class="mobile-nav">
-            <div class="center-items">
-                <a href="<?php echo site_url(); ?>">Terug naar homepage</a>
-            </div>
-        </div>
-
         <!-- HEADER  -->
         <header class="small">
             <div class="back"></div>
             <nav>
-                <a href="#"><img src="<?php echo get_template_directory_uri(); ?>/images/logo-designotv.svg" alt="Logo DesignoTV"></a>
+                <a href="<?php echo site_url(); ?>"><img src="<?php echo get_template_directory_uri(); ?>/images/logo-designotv.svg" alt="Logo DesignoTV"></a>
                 <div class="wrap-items">
                     <a href="<?php echo site_url(); ?>">Terug naar homepage</a>
                     <a href="https://www.eventbrite.com/e/designoshow-tickets-34099928805" target="_blank" class="btn-tickets">Tickets</a>

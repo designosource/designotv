@@ -17,7 +17,7 @@ $(document).ready(function() {
     $('.wrap-programma').unslider({
         autoplay: true,
         delay: 5000,
-        speed: 1000,
+        speed: 600,
         arrows: {
           //  Unslider default behaviour
           prev: '<a class="unslider-arrow prev">Previous slide</a>',
